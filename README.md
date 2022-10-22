@@ -1,9 +1,9 @@
 # COMP472-miniproject1
 
 ## Group Members:
-Vithushen Sivasubramaniam, Student 40112363 (Team Leader) </br>
-David Xie, Student 40065595 </br>
-Vejay Thanamjeyasingam, Student 40112236</br></br>
+Vithushen Sivasubramaniam (40112363) (Team Leader) </br>
+David Xie (40065595) </br>
+Vejay Thanamjeyasingam (40112236) </br></br>
 
 
 
