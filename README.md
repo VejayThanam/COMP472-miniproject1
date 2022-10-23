@@ -1,5 +1,7 @@
 # COMP472-miniproject1
 
+Link to Github Repository: https://github.com/VejayThanam/COMP472-miniproject1
+
 ## Group Members:
 Vithushen Sivasubramaniam (40112363) (Team Leader) </br>
 David Xie (40065595) </br>
@@ -7,8 +9,6 @@ Vejay Thanamjeyasingam (40112236) </br></br>
 
 
 
-
-Link to Github Repository: https://github.com/VejayThanam/COMP472-miniproject1
 
 </br>
 
